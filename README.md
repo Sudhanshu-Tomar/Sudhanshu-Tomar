@@ -1,4 +1,5 @@
-![Masterhead](https://user-images.githubusercontent.com/119277783/221516619-d09f2bf6-fee3-4eab-bbbc-fb492f5a3e70.jpg)
+![Masterhead]![data-visualization](https://github.com/Sudhanshu-Tomar/Sudhanshu-Tomar/assets/119277783/75225661-2b3d-4ae2-b9d3-ff30d3197d00)
+
 
 # Hi there! 👋 I'm Sudhanshu Tomar
 
