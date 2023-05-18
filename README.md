@@ -3,11 +3,11 @@
 
 # Hi there! 👋 I'm Sudhanshu Tomar
 
-<div align="right">
+<div align="middle">
   <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*cPrF_XMe7U6atYgM.gif">
 </div>
 
-<p align="middle">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=sudhanshu-tomar&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu-tomar">
 </p>
 
