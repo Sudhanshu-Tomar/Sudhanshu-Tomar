@@ -1,7 +1,9 @@
-  ![data-visualization](https://github.com/Sudhanshu-Tomar/Sudhanshu-Tomar/assets/119277783/75225661-2b3d-4ae2-b9d3-ff30d3197d00)
+ # Hi there! 👋 I'm Sudhanshu Tomar
+ 
+ ![data-visualization](https://github.com/Sudhanshu-Tomar/Sudhanshu-Tomar/assets/119277783/75225661-2b3d-4ae2-b9d3-ff30d3197d00)
 
 
-# Hi there! 👋 I'm Sudhanshu Tomar
+
 
 ![bi-dashboard-for-website](https://github.com/Sudhanshu-Tomar/Sudhanshu-Tomar/assets/119277783/44420393-28fa-41bf-a8b4-7bfe965952cd)
 
