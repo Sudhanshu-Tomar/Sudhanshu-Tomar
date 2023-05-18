@@ -3,9 +3,8 @@
 
 # Hi there! 👋 I'm Sudhanshu Tomar
 
-<div align="middle">
-  <img alt="Coding" width="400" src="https://github.com/Sudhanshu-Tomar/Sudhanshu-Tomar/blob/main/assets/119277783/288c1f22-ac39-4a96-b45e-7b551f196bfa.png">
-</div>
+![bi-dashboard-for-website](https://github.com/Sudhanshu-Tomar/Sudhanshu-Tomar/assets/119277783/44420393-28fa-41bf-a8b4-7bfe965952cd)
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sudhanshu-tomar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
