@@ -4,7 +4,7 @@
 # Hi there! 👋 I'm Sudhanshu Tomar
 
 <div align="middle">
-  <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*cPrF_XMe7U6atYgM.gif">
+  <img alt="Coding" width="400" src="![bi-dashboard-for-website](https://github.com/Sudhanshu-Tomar/Sudhanshu-Tomar/assets/119277783/288c1f22-ac39-4a96-b45e-7b551f196bfa)">
 </div>
 
 <p align="left">
