@@ -14,6 +14,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sudhanshu-tomar-493633255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudhanshu-tomar-493633255/" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhanshu-tomar&show_icons=true&locale=en" alt="sudhanshu-tomar" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu-tomar&" alt="sudhanshu-tomar" /></p>
