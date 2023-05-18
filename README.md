@@ -1,6 +1,3 @@
-![data-visualization](https://github.com/Sudhanshu-Tomar/Sudhanshu-Tomar/assets/119277783/75225661-2b3d-4ae2-b9d3-ff30d3197d00)
-
-
 # Hi there! 👋 I'm Sudhanshu Tomar
 
 <div align="middle">
@@ -10,6 +7,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sudhanshu-tomar&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu-tomar">
 </p>
+
 
 - 📫 How to reach me: sudhanshu.tomar@outlook.com
 
