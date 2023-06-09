@@ -1,6 +1,7 @@
  # Hi there! 👋 I'm Sudhanshu Tomar
  
- Scroll down for Project Repositories :
+ 
+To view my work, you can click on "Project Repositories"
 
 ![fc71635c7f1b09ed30413f59bb749582](https://github.com/Sudhanshu-Tomar/Sudhanshu-Tomar/assets/119277783/8132f39f-5ec6-40a5-bfde-65f8fea321ee)
 
